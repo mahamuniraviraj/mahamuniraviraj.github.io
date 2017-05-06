@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mahamuniraviraj/mahamuniraviraj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Raviraj Mahamuni
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to My GitHub Pages
 
-### Markdown
+### Learning Github pages 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- SSC 2001 73.46 % 
+- HSC 2004 68.00 %
+- BE  2011 60.00 %
+- CDAC 2011 70.28%
 
-```markdown
-Syntax highlighted code block
+1. Core Java 8 
+2. Java EE 7 : Servlet and Jsp, JPA, JAX-RS, JAX-WS
+3. Spring 4.2 : core, Mvc, Data, Security
+4. Database : MySQL 5.5,  MondoDb
+5. MessageBroker : RabbitMq 3.5.6
+6. Learning JavaScript, Nodejs Typescript, JQuery, Angularjs 
+7. Jenkins 1.6
+8. Maven 3.x
+9. Junit 4.x, Mockito 1.10
+10. Subversion 1.8 , Git Learning
+11. Eclipse Luna 4.4, WebStorm 2016.3
+12. CentOs 6 and Windows 7
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Here is my [GitHub Profile](https://github.com/mahamuniraviraj)
 
-1. Numbered
-2. List
+I am from **Satara**, _Maharashtra_  **India**.
 
-**Bold** and _Italic_ and `Code` text
+`Happy Coding .....`
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahamuniraviraj/mahamuniraviraj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
