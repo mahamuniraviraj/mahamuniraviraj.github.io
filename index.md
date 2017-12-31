@@ -10,7 +10,7 @@
 1. Core Java 8 
 2. Java EE 7 : Servlet and Jsp, JPA, JAX-RS, JAX-WS
 3. Spring 4.2 : core, Mvc, Data, Security, Websockets
-4. Database : MySQL 5.5,  MondoDb
+4. Database : MySQL 5.5,  MongoDb
 5. MessageBroker : RabbitMq 3.5.6 with Stomp and Mqtt plugins
 6. Learning JavaScript, Nodejs Typescript, JQuery, Angularjs 
 7. Jenkins 1.6
